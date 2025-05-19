@@ -151,6 +151,12 @@
         <mxCell id="n2XjixRNVu79ssq3n1lk-1" value="Refinement verdelen over PO/IA en DEV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="330" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n2XjixRNVu79ssq3n1lk-2" value="START als losse stip" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2XjixRNVu79ssq3n1lk-3" value="Betere koppeling naar EINDE, software moet ooit &quot;af&quot; zijn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200.5" width="330" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
