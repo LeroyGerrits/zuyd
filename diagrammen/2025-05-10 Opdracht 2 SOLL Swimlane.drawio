@@ -227,7 +227,7 @@
         <mxCell id="zOOwrNDB9zdHeiTFcrTF-5" value="Faciliteren" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;plain-purple;strokeColor=none;fillColor=#006600;gradientColor=none;spacing=6;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="658.02" y="519" width="118.97753679318359" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="zOOwrNDB9zdHeiTFcrTF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;dashPattern=1 1;strokeColor=#006600;" edge="1" parent="1" source="zOOwrNDB9zdHeiTFcrTF-6" target="R30zbiC753Ro3uyPxgOw-26">
+        <mxCell id="zOOwrNDB9zdHeiTFcrTF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;dashed=1;dashPattern=1 1;strokeColor=#006600;endArrow=block;endFill=1;" edge="1" parent="1" source="zOOwrNDB9zdHeiTFcrTF-6" target="R30zbiC753Ro3uyPxgOw-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zOOwrNDB9zdHeiTFcrTF-6" value="Akkoord?" style="rhombus;fillColor=#FF8000;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
