@@ -62,7 +62,7 @@
         <mxCell id="TyIScYGrdLz4eEjOedrv-46" parent="1" style="whiteSpace=wrap;strokeColor=none;fillColor=#271D6C;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;fillStyle=auto;" value="Prepareert Questionnaire" vertex="1">
           <mxGeometry height="60" width="119.52" x="19.990000000000002" y="120.75" as="geometry" />
         </mxCell>
-        <mxCell id="TyIScYGrdLz4eEjOedrv-48" parent="1" style="whiteSpace=wrap;strokeColor=none;fillColor=#271D6C;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;fillStyle=auto;" value="Invullen questionnaire" vertex="1">
+        <mxCell id="TyIScYGrdLz4eEjOedrv-48" parent="1" style="whiteSpace=wrap;strokeColor=none;fillColor=#271D6C;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;fillStyle=auto;" value="Invullen questionnaire, gesprek &lt;br&gt;voeren over dimensies" vertex="1">
           <mxGeometry height="59.5" width="282.33" x="21.99999999999997" y="200.5" as="geometry" />
         </mxCell>
         <mxCell id="TyIScYGrdLz4eEjOedrv-52" parent="1" style="rhombus;fillColor=#00A1CD;strokeColor=none;fontColor=#FFFFFF;fontSize=10;" value="Bijzonderheden &#xa;op teamniveau?" vertex="1">
@@ -119,7 +119,7 @@
         <mxCell id="TyIScYGrdLz4eEjOedrv-78" edge="1" parent="1" source="TyIScYGrdLz4eEjOedrv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#271D6C;endArrow=block;endFill=1;" target="TyIScYGrdLz4eEjOedrv-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TyIScYGrdLz4eEjOedrv-75" parent="1" style="whiteSpace=wrap;strokeColor=none;fillColor=#271D6C;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;fillStyle=auto;" value="Resultaten voorleggen aan MT" vertex="1">
+        <mxCell id="TyIScYGrdLz4eEjOedrv-75" parent="1" style="whiteSpace=wrap;strokeColor=none;fillColor=#271D6C;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;spacing=6;verticalAlign=middle;fillStyle=auto;" value="Resultaten voorleggen aan management" vertex="1">
           <mxGeometry height="58.12" width="118.98" x="22" y="520" as="geometry" />
         </mxCell>
         <mxCell id="TyIScYGrdLz4eEjOedrv-76" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=block;endFill=1;strokeColor=#271D6C;">
@@ -131,7 +131,7 @@
         <mxCell id="TyIScYGrdLz4eEjOedrv-77" parent="1" style="whiteSpace=wrap;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=0;html=1;fontSize=12;plain-purple;strokeColor=none;fillColor=#271D6C;gradientColor=none;spacing=6;verticalAlign=middle;" value="Verzamelt en analyseert resultaten teams" vertex="1">
           <mxGeometry height="60" width="118.98" x="340.48" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="TyIScYGrdLz4eEjOedrv-79" parent="1" style="rhombus;fillColor=#00A1CD;strokeColor=none;fontColor=#FFFFFF;fontSize=9;" value="Bijzonderheden &#xa;op overstijgend&#xa;niveau?" vertex="1">
+        <mxCell id="TyIScYGrdLz4eEjOedrv-79" parent="1" style="rhombus;fillColor=#00A1CD;strokeColor=none;fontColor=#FFFFFF;fontSize=10;" value="Trends op&#xa;overstijgend niveau?" vertex="1">
           <mxGeometry height="60" width="123.57" x="338.19" y="600" as="geometry" />
         </mxCell>
         <mxCell id="TyIScYGrdLz4eEjOedrv-80" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.2;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=block;endFill=1;strokeColor=#271D6C;">
